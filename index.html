@@ -1,0 +1,51 @@
+---
+layout: default
+title: Begegnungen
+description: Das ist unsere Praxis in Burgdorf
+featured_image: /images/orig_logo.png
+---
+
+<section class="intro">
+
+	<div class="wrap">
+
+		<h1>In der Begegnung liegt die Kraft der Veränderung</h1>
+
+		<p>Gemeinschaftspraxis Begegnungen Burgdorf</p>
+		
+	
+
+	</div>
+
+</section>
+
+<section class="portfolio">
+
+	<div class="content-wrap portfolio-wrap">
+
+		{% for project in site.projects %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
+
+				<div class="portfolio-item__image">
+					<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ project.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>
