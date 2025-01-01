@@ -9,27 +9,22 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	// margin-top: 40px;
 	margin-top: $header-margin-top-phone;
 	background-color: $header-background-color;
 	
-	@include mq(tabletp) {
-		// margin-top: 50px;
+	@include mq(tabletp) {		
 		margin-top: $header-margin-top-tablet;
 	}
 
-	@include mq(tabletl) {
-		// margin-top: 60px;
+	@include mq(tabletl) {		
 		margin-top: $header-margin-top-tablet-large;
 	}
 
-	@include mq(laptop) {
-		// margin-top: 80px;
+	@include mq(laptop) {		
 		margin-top: $header-margin-top-laptop;
 	}
 
-	@include mq(desktop) {
-		// margin-top: 80px;
+	@include mq(desktop) {		
 		margin-top: $header-margin-top-desktop;
 	}
 }
@@ -51,8 +46,7 @@
 
 	@include mq(tabletl) {
 		width: $logo-width-tablet-large;
-		max-width: 80%;
-		// float: left;
+		max-width: 80%;		
 	}
 	@include mq(desktop) {
 		width: $logo-width-desktop;
@@ -62,11 +56,6 @@
 		width: $logo-width-tablet;
 		max-width: 80%;
 	}
-
-	//@include mq(tabletp) {
-	//	float: left;
-	//	max-width: 50%;
-	//}
 }
 
 .header__logo__img {
@@ -92,8 +81,6 @@
 		font-size: $sitetitle-large;
 	}
 }
-
-
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
 
@@ -211,8 +198,7 @@
 .menu__list {
 	list-style: none;
 	margin: 0 auto;
-	padding: 30px;
-	// margin-top: $menu-list-margin-top;	
+	padding: 30px;	
 	
 	@include mq(tabletp) {
 		margin-left: 30px;
@@ -230,23 +216,9 @@
 	@include mq(desktop) {
 		margin-top: $menu-list-margin-top-desktop;
 	}
-
-
-
-	// @include mq(tabletp) {
-	//	padding: 40px 0 0;
-	//	max-width: 100%;
-	// }
-
-	// @include mq(tabletl) {
-	//	max-width: none;
-	//	margin: 0;
-	//	padding: 0;
-	// }
 }
 
 .menu__list__item {
-	// margin-top: $menu-list-margin-top;
 
 	@include mq(tabletp) {
 		display: inline-block;
@@ -285,15 +257,6 @@
 			margin-left: 0;
 			}
 	}
-
-	//@include mq(tabletl) {
-	//	display: inline-block;
-	//	margin-left: 20px;
-    //
-	//	&:first-child {
-	//		margin-left: 0;
-	//	}
-	//}
 }
 
 .menu__list__item__link {

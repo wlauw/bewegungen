@@ -1,9 +1,7 @@
 basic_settings:
   site_title:  Begegnungen Burgdorf
-#  favicon_image: /images/favicon.png
 
 header_settings:
-  # logo_image: /images/orig_logo.png
   logo_image: images/orig_logo.jpg
   logo_width: 50  # phone
   logo_width_tablet: 100
@@ -31,8 +29,8 @@ menu_settings:
       url: 'angebot'
     - title: 'Therapeutinnen'
       url: '/therapeutinnen/'
-    - title: 'Räumlichkeiten'
-      url: 'rauemlichkeiten'
+   # - title: 'Räumlichkeiten'
+   #   url: 'rauemlichkeiten'
     - title: 'Erster Besuch'
       url: 'ersterbesuch'
     - title: 'Kontakt'
@@ -97,18 +95,14 @@ color_settings:
   background_color: '#ffffff'
   header_background_color: '#BFCF94'
   background_alt_color: '#f4f5f6'
-  # text_dark_color: '#2A2F36'
   text_dark_color: '#738276'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  # accent_color: '#F2784B'
   accent_color: '#8f9779'
   border_color: '#dddddd'
   overlay_background_color: '#BFCF94'
-  # overlay_text_color: '#ffffff'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
-  # h1_font_color: '#4d5d53'
   h1_font_color: '#738276'
   error_color: '#D64541'
 

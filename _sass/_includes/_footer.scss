@@ -11,7 +11,8 @@
 .footer {
 	background-color: $header-background-color;
 	height: 40px;
-	margin-top: 30px;
+	margin-top: auto;
+	margin-bottom: 5px;
 }
 
 .footer__logo {
@@ -214,23 +215,10 @@
 	@include mq(desktop) {
 		margin-top: $menu-list-margin-top-desktop;
 	}
-
-
-
-	// @include mq(tabletp) {
-	//	padding: 40px 0 0;
-	//	max-width: 100%;
-	// }
-
-	// @include mq(tabletl) {
-	//	max-width: none;
-	//	margin: 0;
-	//	padding: 0;
-	// }
 }
 
 .footer_menu__list__item {
-	// margin-top: $menu-list-margin-top;
+	
 	display: inline-block;
 	margin-left: 20px;
 
@@ -275,10 +263,8 @@
 }
 
 .footer_menu__list__item__link {
-	// font-size: $menu-small;
 	font-size: 10px;
-	font-weight: $menu-weight;
-	// color: $overlay-text-color;
+	font-weight: $menu-weight;	
 	color: $background-color;
 	padding: 10px 0;
 

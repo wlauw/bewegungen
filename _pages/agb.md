@@ -31,7 +31,7 @@ Die Patient:innen haben jederzeit das Recht, Auskunft zu ihrer Personendaten zu 
 *Berichtigung der Angaben:* Wenn die Patient:innen feststellt oder der Ansicht ist, dass ihre Daten nicht korrekt oder unvollständig sind, haben sie die Möglichkeit, eine Berichtigung zu verlangen. Kann weder die Korrektheit noch die Unvollständigkeit der Daten festgestellt werden, haben sie die Möglichkeit auf die Anbringung eines Bestreitungsvermerks.
  
 ### Annullationsbedingungen
-Behandlungstermine sind grundsätzlich verbindlich und die vereinbarte Zeit wird für die Patient:innen reserviert. Die Patient:innen werden daher gebeten, im Verhinderungsfalle frühzeitig, aber mindestens 24 Stunden im Voraus, darüber zu informieren. Die Gemeinschaftspraxis behält sich vor, bei einer verspäteten oder fehlenden Terminabsage den Patient:innen einen Unkostenbeitrag von mindestens CHF 100 zu verrechnen.
+Behandlungstermine sind grundsätzlich verbindlich und die vereinbarte Zeit wird für die Patient:innen reserviert. Die Patient:innen werden daher gebeten, im Verhinderungsfalle frühzeitig, aber mindestens 48 Stunden im Voraus, darüber zu informieren. Die Gemeinschaftspraxis behält sich vor, bei einer verspäteten oder fehlenden Terminabsage den Patient:innen einen Unkostenbeitrag von mindestens CHF 150 zu verrechnen.
 
 ### Zahlungsregelung
 Die psychotherapeutische Behandlung kann über die Grundversicherung abgerechnet werden, sofern sie auf eine ärztliche Anordnung erfolgt, welche von Hausarzt:innen, Psychiater:innen oder einem Fachärtz:innen für psychosomatische Medizin ausgestellt worden ist.
