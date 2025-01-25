@@ -3,7 +3,7 @@ site: Begegnungen Burgdorf
 domain: begegnungen-burgdorf.github.io
 
 url: https://begegnungen-burgdorf.ch
-baseurl: /bewegungen
+baseurl: /
 
 collections:
   pages:

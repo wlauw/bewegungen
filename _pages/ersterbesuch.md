@@ -7,7 +7,7 @@ Unsere Praxis befindet sich an der Wynigenstrasse 19 in 3400 Burgdorf, im 3ten S
  
 Die Haupttüre ist auch unter Tags geschlossen. Bitte drücken Sie die Klingel an der Innenseite des Briefkastens für den jeweiligen Therapeuten und nicht die Hauptklingel. In der Praxis dürfen Sie sich gerne in einem der Wartebereiche hinsetzen, wir holen Sie zur entsprechenden Zeit ab. 
 
-Es gibt Personen, welche vor oder nach der Therapiesitzng gerne etwas Zeit für sich nehmen. Hierfür stehen für Sie in der Küche eine Kaffeemaschine und einen Teekocher bereit - bitte bedienen Sie sich und nehmen Sie sich die Zeit, die Sie brauchen!
+Es gibt Personen, welche vor oder nach der Therapiesitzung gerne etwas Zeit für sich nehmen. Hierfür stehen für Sie in der Küche eine Kaffeemaschine und einen Teekocher bereit - bitte bedienen Sie sich und nehmen Sie sich die Zeit, die Sie brauchen!
 
 ### Vor Therapiebeginn
 
