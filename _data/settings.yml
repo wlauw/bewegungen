@@ -1,5 +1,6 @@
 basic_settings:
   site_title:  Begegnungen Burgdorf
+  favicon_image: /images/favicon.png
 
 header_settings:
   logo_image: images/orig_logo.jpg
