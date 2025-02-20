@@ -4,7 +4,7 @@ title: ''
 subtitle:
 ---
 # Angebot Psychotherapie
-Das Angebot richtet sich an Jugendliche und Erwachsene. Es werden Psychotherapien im Einzel-, Paar- als auch Familiensetting angeboten. Der psychtherapeutische Prozess darf sowohl vor Ort in der Praxis oder auch in Online-Sitzungen stattfinden.
+Das Angebot richtet sich an Jugendliche und Erwachsene. Es werden Psychotherapien im Einzel-, Paar- als auch Familiensetting angeboten. Der psychotherapeutische Prozess darf sowohl vor Ort in der Praxis oder auch in Online-Sitzungen stattfinden.
 
 
 ### Kostenübernahme über die obligatorische Grundversicherung
