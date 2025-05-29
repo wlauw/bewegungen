@@ -5,7 +5,7 @@ subtitle:
 ---
 # Impressum
 ### Adresse:
-**Begegungen Burgdorf** <br />
+**Begegnungen Burgdorf** <br />
 **Wynigenstrasse 19** <br />
 **3400 Burgdorf** <br />
 

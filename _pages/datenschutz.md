@@ -72,7 +72,7 @@ Unsere Gemeinschaftspraxis kann diese Datenschutzerklärung jederzeit ohne Voran
 06.01.2024
 
 Verantwortliche
-**Begegungen Burgdorf** <br />
+**Begegnungen Burgdorf** <br />
 **Wynigenstrasse 19** <br />
 **3400 Burgdorf** <br />
 
@@ -109,7 +109,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 #### Hinweis zur verantwortlichen Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-**Begegungen Burgdorf** <br />
+**Begegnungen Burgdorf** <br />
 **Wynigenstrasse 19** <br />
 **3400 Burgdorf** <br />
 

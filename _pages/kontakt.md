@@ -7,7 +7,7 @@ Sie erreichen uns via Mail (siehe unter Therapeutinnen). Bitte beschreiben Sie k
 Wir freue uns Sie kennenzulernen und mit Ihnen zusammenzuarbeiten.
 
 ## Kontaktadresse:
-**Begegungen Burgdorf** <br />
+**Begegnungen Burgdorf** <br />
 **Wynigenstrasse 19** <br />
 **3400 Burgdorf** <br />
 <br />
