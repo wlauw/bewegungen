@@ -3,7 +3,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: images/orig_logo.jpg
+  logo_image: images/orig_logo.png
   logo_width: 50  # phone
   logo_width_tablet: 100
   logo_width_tablet_large: 100
@@ -30,8 +30,8 @@ menu_settings:
       url: 'angebot'
     - title: 'Therapeutinnen'
       url: '/therapeutinnen/'
-   # - title: 'Räumlichkeiten'
-   #   url: 'rauemlichkeiten'
+    - title: 'Räumlichkeiten'
+      url: 'rauemlichkeiten'
     - title: 'Erster Besuch'
       url: 'ersterbesuch'
     - title: 'Kontakt'
