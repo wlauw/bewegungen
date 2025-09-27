@@ -3,7 +3,7 @@ layout: page
 title: Räumlichkeiten
 subtitle: Das sind unsere Räumlichkeiten in Burgdorf
 ---
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
     <img src="images/rauemlichkeiten/img_6.jpg">
     <img src="images/rauemlichkeiten/img_14.jpg">
     <img src="images/rauemlichkeiten/img_3.jpg">
