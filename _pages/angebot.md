@@ -27,8 +27,6 @@ Bitte beachten Sie, dass Termine, die nicht 48 Stunden vorher abgesagt werden, i
 ---
 # Angebot Shiatsu
 
-Die Therapeutinnen sind von der EMR anerkannt. Die Kosten für Shiatsu-Behandlungen werden von den meisten Zusatzversicherungen übernommen. Am einfachsten erkundigen Sie sich direkt bei Ihrer Krankenkasse über die genauen Leistungen.
-
 ### Behandlung
 
 Nach einem Gespräch findet die Behandlung in bequemer Kleidung auf dem Futon am Boden statt. Eine Behandlung dauert ca. 60 Minuten. Für die Erstkonsultation sollten zusätzliche 30 Minuten eingeplant werden.
