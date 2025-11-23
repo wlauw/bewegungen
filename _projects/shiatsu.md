@@ -23,7 +23,7 @@ In unserer Gemeinschaftspraxis verbinden wir körperorientierte und psychologisc
 Shiatsu schafft Raum, sich selbst mit Achtsamkeit zu begegnen – im Vertrauen, dass Körper 
 und Seele wissen, was sie brauchen.
 
-Weiter kann Shiatsu in folgenden Bereichen unterstützend wirken:
+**Weiter kann Shiatsu in folgenden Bereichen unterstützend wirken:**
 - Verspannungen, Schmerzen und Einschränkungen des Bewegungsapparates
 - Stress, Schlafstörungen, Unruhe, Nervosität
 - Antriebslosigkeit, Müdigkeit
@@ -33,7 +33,7 @@ Weiter kann Shiatsu in folgenden Bereichen unterstützend wirken:
 - Emotionalem und psychischem Ungleichgewicht, Krisen und Trauma
 - Lebens- und Veränderungsprozessen (Familie, Partnerschaft, Beruf…)
 
-Shiatsu kann zudem eingesetzt werden zur:
+**Shiatsu kann zudem eingesetzt werden zur:**
 - Aufrechterhaltung der eigenen Gesundheit und des Wohlbefindens
 - Lösung innerer Blockaden und Verhaltensmuster
 
